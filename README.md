@@ -32,16 +32,22 @@ This script calculates the sum of numbers from 1 to 50 using a `for` loop.
 The sum of numbers from 1 to 50 is: 1275
 
 
-## 🛠 Requirements
+🚀 How to Run
+Make sure you have Python installed (version 3.x recommended).
+Download the script file.
+Open the cmd in the downloaded forder
+Run the script using the command: 
+python Task1.py
+python Task2.py
 
-- Python 3.x
+🧠 Skills Practiced
+These tasks focus on fundamental programming concepts that are essential for every beginner to learn:
+- **User Input Handling**: Understanding how to capture and process input from the user (`input()`).
+- **Conditional Statements**: Using `if-else` statements to make decisions based on the value of variables (checking even/odd).
+- **Loops**: Implementing `for` loops to repeat a block of code a specific number of times (summation from 1 to 50).
+- **Basic Arithmetic**: Using simple arithmetic operations like modulus (`%`) and addition (`+=`).
+- 
+📁 Repository Structure 📁 TuteDude-Assignment_2/ ├── Task1.py # This script prompts the user to enter a number and determines whether the number is even or odd.
+ └── Task2.py # script calculates the sum of numbers from 1 to 50 using a `for` loop.
 
-No external libraries are required.
-
-## 📌 How to Run
-
-Clone the repository and run the scripts using Python:
-
-```bash
-python Task\ 1.py
-python Task\ 2.py
+💬 Feedback Feel free to open an issue or submit a pull request if you'd like to contribute or suggest improvement
