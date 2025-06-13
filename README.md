@@ -1,5 +1,5 @@
 # TuteDude-Assignment_2
-Python Assignment 2
+Assignment2 for my python course
 # Simple Python Tasks
 
 This repository contains two beginner-friendly Python scripts demonstrating basic programming concepts: user input, conditional statements, and loops.
